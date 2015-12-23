@@ -1,5 +1,6 @@
 # Reverse Cipher
 # http://inventwithpython.com/hacking (BSD Licensed)
+# some more comments
 
 message = raw_input('Enter a message: ')
 translated = ''
